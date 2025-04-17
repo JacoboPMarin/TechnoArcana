@@ -59,3 +59,15 @@
 [17Apr2025 15:34:43.033] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@2333f172[id=3dd6d3b4-1bdb-3670-9ae9-61cf608fe03a,name=JacoboP,properties={}] lost connection: Disconnected
 [17Apr2025 15:41:43.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JacoboP[/127.123.137.159:46485] logged in with entity id 9 at (-89.5, 66.0, -9.5)
 [17Apr2025 15:41:43.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JacoboP joined the game
+[17Apr2025 15:42:29.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JacoboP lost connection: Disconnected
+[17Apr2025 15:42:29.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JacoboP left the game
+[17Apr2025 15:42:47.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Apr2025 15:42:47.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Apr2025 15:42:47.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Apr2025 15:42:47.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Apr2025 15:42:47.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Apr2025 15:42:47.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Apr2025 15:42:47.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Apr2025 15:42:47.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Apr2025 15:42:47.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Apr2025 15:42:47.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
